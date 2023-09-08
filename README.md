@@ -1,7 +1,7 @@
 API REST usando C# .NET 7.
 
 FibonacciController.cs
-The FibonacciController.cs document contains the get action that is called in the api to orchestrate the logic with its return of the object with the index and its value.Ejemplo de uso del punto final:
+The FibonacciController.cs document contains the get action that is called in the api to orchestrate the logic with its return of the object with the index and its value.
 
 URL https://localhost:7254/swagger/index.html
 
